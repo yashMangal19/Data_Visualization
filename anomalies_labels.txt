@@ -1,0 +1,28 @@
+2 - label 2,6 have too much reading
+He was standing for 13 mins and running for 10 mins therefore too much reading
+in label 2,6
+
+3 - label 1 has only 31 readings, 2 has 1.4 lakh
+as he was standing for 27 mins and there is some data from 16:19 to 16:20 but
+no data from 16:20 - 16:25
+and he was running for a long time.
+
+4 - label 5 has very less values and it looks like running 2 is miss classified but
+has to be case of running 1.
+It was interrupted from 18:41 but the data is missing from 18:36:51 to 18:43:57.
+
+10 - time was wrong given 10 in place of 11 in label 1,2
+
+12 - 2 lakh entries in label 6 but they are just anomalies at end
+
+14 - timestamps are given same for each activity
+
+15 - label three has a little less values but it could be natural as all activities
+other than 3 has 7 min and 3 has 5 mins.
+
+16 - label 6 has a around 6000 readings but seeing graph it seems that the start
+time is low for running 2 and can be changed manually to get better results.
+
+11 datasets including 12, 10 are good
+
+
